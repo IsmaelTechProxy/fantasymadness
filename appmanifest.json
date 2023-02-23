@@ -1,27 +1,27 @@
 {
 	"name": "Fantasy Madness",
 	"short_name": "Fantasy Madness",
-	"start_url": "index.html",
+	"start_url": "https://ismaeltechproxy.github.io/fantasymadness/index.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
-		"src": "icon-16.png",
+		"src": "https://fantasy-madness.com/icon-16.png",
 		"sizes": "16x16",
 		"type": "image/png"
 	}, {
-		"src": "icon-32.png",
+		"src": "https://fantasy-madness.com/icon-32.png",
 		"sizes": "32x32",
 		"type": "image/png"
 	}, {
-		"src": "icon-128.png",
+		"src": "https://fantasy-madness.com/icon-128.png",
 		"sizes": "128x128",
 		"type": "image/png"
 	}, {
-		"src": "icon-256.png",
+		"src": "https://fantasy-madness.com/icon-256.png",
 		"sizes": "144x144",
 		"type": "image/png"
 	}, {
-		"src": "icon-256.png",
+		"src": "https://fantasy-madness.com/icon-256.png",
 		"sizes": "256x256",
 		"type": "image/png"
 	}]
